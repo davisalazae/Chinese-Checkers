@@ -1,0 +1,2 @@
+# Chinese-Checkers
+This was a group project for my CPSC 4176 Software Engineering Senior Project. Our group members consisted of: Tyler Yann, Richard Myers, Harrison Stokes, Davonta'e Carter, and myself. Tyler and Richard were lead programmers with Richard developing the AI. Harrison and I were in charge of the UI development as well as testers. Davonta'e added music selection to the game. This was programmed in VS utilizing C# and developed using Unity
